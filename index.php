@@ -62,7 +62,7 @@
                         
                             <div class="space-40"></div>
                             <ul class="list-inline list-unstyled social">
-<<<<<<< HEAD
+
                                
                               
                               
