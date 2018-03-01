@@ -63,10 +63,7 @@
                             <div class="space-40"></div>
                             <ul class="list-inline list-unstyled social">
 <<<<<<< HEAD
-                                <li><a href="https://www.facebook.com/sourav.bakshi.7906"><i class="fa fa-facebook"></i></a></li>
-=======
->>>>>>> 07b599fe7ed3a7a1312b8352e8444c968725a0c9
-                              
+                               
                               
                               
                                
